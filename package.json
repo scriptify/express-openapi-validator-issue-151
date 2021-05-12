@@ -43,7 +43,7 @@
     "mini-css-extract-plugin": "^0.4.4",
     "nodemon-webpack-plugin": "^4.0.8",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
-    "postcss": "^7.0.23",
+    "postcss": "^8.2.10",
     "postcss-loader": "^3.0.0",
     "postcss-preset-env": "^6.4.0",
     "react-hot-loader": "^4.12.15",
